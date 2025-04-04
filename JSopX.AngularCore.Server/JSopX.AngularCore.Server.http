@@ -1,0 +1,6 @@
+@JSopX.AngularCore.Server_HostAddress = http://localhost:5285
+
+GET {{JSopX.AngularCore.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
